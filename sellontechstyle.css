@@ -1,0 +1,25 @@
+/* background color for nav bar */
+.topnav {
+  background-color: #000000;
+  overflow: hidden;
+}
+
+/* style on links */
+.topnav a {
+  color: #white;
+  text-align: center;
+  font-size: 15px;
+}
+
+/* on hover */
+.topnav a:hover {
+  background-color: #ffffff;
+  color: black;
+  
+}
+
+/* current page */
+.topnav a.active {
+  background-color: #740571;
+  color: black;
+}
