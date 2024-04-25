@@ -1,12 +1,13 @@
-.body {
+body {
   background-color: #d5d5d5
 }
 
 /* background color for nav bar */
 .topnav {
-  width: 100%;
+  width: 800px;
   background-color: #000000;
   overflow: hidden;
+  border-radius: 30px;
 }
 
 /* style on links */
@@ -30,3 +31,4 @@
   background-color: #740571;
   color: black;
 }
+
