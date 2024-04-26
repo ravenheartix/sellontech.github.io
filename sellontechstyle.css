@@ -2,12 +2,6 @@ body {
   background-color: #FFFFFF;
 }
 
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color: #5A5A5A;
-    color: white;
-  }
-}
 /* background color for nav bar */
 .topnav {
   width: 800px;
