@@ -40,6 +40,12 @@ body {
 .topnav a:visted {
   color: white;
 }
+
+.contenttable {
+/*  width: 900px; */
+  margin-left: auto;
+  margin-right: auto;
+}
 /* style code for main content class div */
 
 
