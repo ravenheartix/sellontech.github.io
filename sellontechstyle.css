@@ -1,6 +1,6 @@
 body {
   background-color: #FFFFFF;
-  align: center;
+  margin: auto;
 }
 
 /* background color for nav bar */
@@ -26,6 +26,8 @@ body {
   background-color: #ffffff;
   color: black;
   border-radius: 20px;
+  border-style: solid;
+  border-color: black;
   
 }
 
