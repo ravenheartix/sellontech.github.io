@@ -1,6 +1,7 @@
 This is the readme for my project website.
 
 There isn't much to read in the readme.
+
 To quickly see the site - Go to: https://ravenheartix.github.io/sellontech.github.io/
 **Purpose:**
 The purpose of this repository and the project itself really is to bolster my skills in HTML, JAVA, and CSS.
