@@ -17,9 +17,10 @@ I have very little experience as of yet other than classes I took in highschool 
 
 
 **Future Ambitions:**
-1. Purchase a custom domain - will be deployed soon after purchase as Github Pages allows for custom domain use. (Expected Completion: End of June 2024).
-2. Move off of GitHub Pages - going to experiment with self hosting this project site from a Raspberry Pi. (Expected Completion: End of Summer 2024).
-3. Start a blog - either through a seperate blog service or through my own Page and starting blogging. (Expected Completion: End of Summer 2024).
+1. Purchase a custom domain - will be deployed soon after purchase as Github Pages allows for custom domain use. <s>(Expected Completion: End of June 2024).</s> (Expected Completion: Unknown).
+2. Move off of GitHub Pages - going to experiment with self hosting this project site from a Raspberry Pi. <s>(Expected Completion: End of Summer 2024).</s> (Expected Completion: Unknown).
+3. Start a blog - either through a seperate blog service or through my own Page and starting blogging. <s>(Expected Completion: End of Summer 2024)</s>. (Expected Completion: End of 2024 Using a blog service).
 
 **News About The Site:**
 4/25/2024: Page created and various updates done to it. 
+9/26/2024: Back after a long haitus. Updated Readme.
