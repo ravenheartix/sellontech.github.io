@@ -48,5 +48,13 @@ body {
 }
 /* style code for main content class div */
 
+.footer{
+    position: abosolute;
+    botton: 0;
+    left: 0;
+    font-size: xx-small;
+    font-color: #cdcbcb;
+}
+
 
 
