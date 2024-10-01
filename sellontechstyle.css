@@ -50,10 +50,10 @@ body {
 
 .footer {
     margin: auto;
-    botton: 0;
-    text-align: center;
+    bottom: 0;
     font-size: xx-small;
-    font-color: #cdcbcb;
+    color: #cdcbcb;
+    text-align: center;
 }
 
 
