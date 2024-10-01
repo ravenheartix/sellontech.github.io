@@ -48,8 +48,8 @@ body {
 }
 /* style code for main content class div */
 
-.footer{
-    position: abosolute;
+.footer {
+    position: absolute;
     botton: 0;
     left: 0;
     font-size: xx-small;
